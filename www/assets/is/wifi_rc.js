@@ -1,9 +1,4 @@
-//
-/*
-  Wi-fi Remote Control with JQuery and Onsen UI
-  Demo by José Cintra
-  www.josecintra.com/blog
-*/
+
 
 $(function () {
 
