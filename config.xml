@@ -23,6 +23,7 @@
     <icon src="www/assets/img/icon-128.png" width="128" height="128" density="xhdpi" />
 
     <preference name="android-targetSdkVersion" value="26" />
+    <preference name="phonegap-version" value="cli-9.0.0" />
 
     <preference name="orientation" value="portrait" />
     <preference name="fullscreen" value="true" />
