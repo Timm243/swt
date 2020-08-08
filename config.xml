@@ -22,10 +22,10 @@
     <icon src="www/assets/images/icon-256.png" width="256" height="256" density="xxxhdpi" />
     <icon src="www/assets/images/icon-128.png" width="128" height="128" density="xhdpi" />
 
-    <preference name="android-targetSdkVersion" value="26" />
+    <preference name="android-targetSdkVersion" value="24" />
     <preference name="phonegap-version" value="cli-9.0.0" />
 
-    <preference name="orientation" value="portrait" />
+    <preference name="orientation" value="" />
     <preference name="fullscreen" value="true" />
     <preference name="DisallowOverscroll" value="true" />
 
@@ -33,7 +33,7 @@
     <config-file parent="UIViewControllerBasedStatusBarAppearance" platform="ios" target="*-Info.plist"><false/></config-file>
 
     <preference name="deployment-target" value="10.0" />
-    <preference name="android-minSdkVersion" value="21" />
+    <preference name="android-minSdkVersion" value="17" />
     <access origin="*" />
    
     <plugin name="cordova-plugin-whitelist" spec="1" />
