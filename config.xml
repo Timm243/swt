@@ -33,7 +33,7 @@
     <config-file parent="UIViewControllerBasedStatusBarAppearance" platform="ios" target="*-Info.plist"><false/></config-file>
 
     <preference name="deployment-target" value="10.0" />
-    <preference name="android-minSdkVersion" value="17" />
+    <preference name="android-minSdkVersion" value="14" />
     <access origin="*" />
    
     <plugin name="cordova-plugin-whitelist" spec="1" />
