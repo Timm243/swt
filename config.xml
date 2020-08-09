@@ -22,11 +22,11 @@
     <icon src="www/assets/images/icon-256.png" width="256" height="256" density="xxxhdpi" />
     <icon src="www/assets/images/icon-128.png" width="128" height="128" density="xhdpi" />
 
-    <preference name="android-targetSdkVersion" value="24" />
+    <preference name="android-targetSdkVersion" value="28" />
   
 
     <preference name="orientation" value="" />
-    <preference name="fullscreen" value="true" />
+    <preference name="fullscreen" value="false" />
     <preference name="DisallowOverscroll" value="true" />
 
     <config-file parent="UIStatusBarHidden" platform="ios" target="*-Info.plist"><true/></config-file>
